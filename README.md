@@ -58,6 +58,6 @@ pip install numpy pandas matplotlib seaborn plotly scikit-learn tensorflow
 
 ---
 
-## 🧠 Reflexión final
+## Reflexión final
 
 Este proyecto integró múltiples habilidades clave: análisis exploratorio, visualización, modelos de clasificación y redes neuronales. Representa una base sólida para futuros proyectos en ciencia de datos e inteligencia artificial.
